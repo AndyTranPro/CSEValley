@@ -1,4 +1,4 @@
 # CSEValley
 A farming game is built based on C programming skills.
-***Details***
+***Details***\n
 *Gameplay*
